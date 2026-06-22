@@ -20,4 +20,20 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
