@@ -53,6 +53,7 @@ My Leetcode Jurney.
 | [0100-same-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,9 +66,14 @@ My Leetcode Jurney.
 | [0100-same-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
