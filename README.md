@@ -54,6 +54,7 @@ My Leetcode Jurney.
 | [0101-symmetric-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -70,6 +71,7 @@ My Leetcode Jurney.
 | [0101-symmetric-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -81,6 +83,7 @@ My Leetcode Jurney.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
