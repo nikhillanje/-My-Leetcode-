@@ -9,6 +9,7 @@ My Leetcode Jurney.
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
@@ -39,6 +40,7 @@ My Leetcode Jurney.
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -103,5 +105,14 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
