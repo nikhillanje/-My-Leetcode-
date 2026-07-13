@@ -71,6 +71,7 @@ My Leetcode Jurney.
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
@@ -135,6 +136,7 @@ My Leetcode Jurney.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -144,4 +146,5 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
