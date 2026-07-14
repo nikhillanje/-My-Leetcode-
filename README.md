@@ -147,4 +147,5 @@ My Leetcode Jurney.
 | ------- |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
