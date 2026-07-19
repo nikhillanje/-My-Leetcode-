@@ -158,6 +158,7 @@ My Leetcode Jurney.
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
+| [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 ## Number Theory
 |  |
 | ------- |
