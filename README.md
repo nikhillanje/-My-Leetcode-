@@ -22,6 +22,7 @@ My Leetcode Jurney.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My Leetcode Jurney.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Linked List
 |  |
 | ------- |
