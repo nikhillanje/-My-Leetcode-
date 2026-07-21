@@ -63,6 +63,7 @@ My Leetcode Jurney.
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -159,6 +160,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
