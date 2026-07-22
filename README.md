@@ -164,6 +164,7 @@ My Leetcode Jurney.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0796-rotate-string) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
 | [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 ## Number Theory
@@ -171,4 +172,8 @@ My Leetcode Jurney.
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
