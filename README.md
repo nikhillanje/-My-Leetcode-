@@ -8,6 +8,7 @@ My Leetcode Jurney.
 | ------- |
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
@@ -130,6 +131,7 @@ My Leetcode Jurney.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
@@ -145,6 +147,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -161,6 +164,7 @@ My Leetcode Jurney.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -178,4 +182,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
