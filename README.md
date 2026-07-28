@@ -80,6 +80,7 @@ My Leetcode Jurney.
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -197,4 +198,12 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
