@@ -177,6 +177,7 @@ My Leetcode Jurney.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
