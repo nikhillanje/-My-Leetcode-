@@ -100,6 +100,7 @@ My Leetcode Jurney.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -186,6 +187,7 @@ My Leetcode Jurney.
 | [1021-remove-outermost-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 ## Number Theory
 |  |
@@ -212,4 +214,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
