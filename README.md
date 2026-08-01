@@ -10,6 +10,7 @@ My Leetcode Jurney.
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
@@ -91,10 +92,12 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
@@ -222,4 +225,12 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
