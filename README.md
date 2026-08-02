@@ -15,6 +15,7 @@ My Leetcode Jurney.
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -100,6 +101,7 @@ My Leetcode Jurney.
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -229,8 +231,10 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
