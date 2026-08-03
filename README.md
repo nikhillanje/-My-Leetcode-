@@ -22,6 +22,7 @@ My Leetcode Jurney.
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -104,6 +105,7 @@ My Leetcode Jurney.
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -232,9 +234,19 @@ My Leetcode Jurney.
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
