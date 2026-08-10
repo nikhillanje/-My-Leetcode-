@@ -111,6 +111,7 @@ My Leetcode Jurney.
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -247,6 +248,7 @@ My Leetcode Jurney.
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
@@ -254,14 +256,25 @@ My Leetcode Jurney.
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
