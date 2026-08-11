@@ -7,6 +7,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -277,4 +279,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
