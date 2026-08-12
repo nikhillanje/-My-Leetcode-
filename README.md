@@ -30,6 +30,7 @@ My Leetcode Jurney.
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -194,6 +195,7 @@ My Leetcode Jurney.
 | ------- |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 ## String
 |  |
