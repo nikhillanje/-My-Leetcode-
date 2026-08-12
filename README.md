@@ -34,6 +34,7 @@ My Leetcode Jurney.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -131,6 +132,7 @@ My Leetcode Jurney.
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -288,4 +290,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
