@@ -10,6 +10,7 @@ My Leetcode Jurney.
 | [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
+| [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -42,6 +43,7 @@ My Leetcode Jurney.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
