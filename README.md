@@ -38,6 +38,7 @@ My Leetcode Jurney.
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Prefix Sum
@@ -197,6 +198,7 @@ My Leetcode Jurney.
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
