@@ -15,14 +15,10 @@ class Solution {
             }
         }
 
-        // If the number of 0-modulo stones is even,
-        // Alice can win when both groups exist.
         if (cnt0 % 2 == 0) {
             return cnt1 > 0 && cnt2 > 0;
         }
 
-        // If cnt0 is odd, one group must have at least
-        // 3 more stones than the other.
         return Math.abs(cnt1 - cnt2) > 2;
         
     }
