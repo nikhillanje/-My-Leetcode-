@@ -30,6 +30,7 @@ My Leetcode Jurney.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +123,7 @@ My Leetcode Jurney.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
@@ -272,6 +274,7 @@ My Leetcode Jurney.
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
 | ------- |
@@ -280,6 +283,7 @@ My Leetcode Jurney.
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
