@@ -26,6 +26,7 @@ My Leetcode Jurney.
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ My Leetcode Jurney.
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,6 +209,7 @@ My Leetcode Jurney.
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -268,6 +271,7 @@ My Leetcode Jurney.
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
