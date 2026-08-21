@@ -43,6 +43,7 @@ My Leetcode Jurney.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@ My Leetcode Jurney.
 | [1539-kth-missing-positive-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@ My Leetcode Jurney.
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -211,6 +214,7 @@ My Leetcode Jurney.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
@@ -247,6 +251,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
@@ -353,4 +358,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
