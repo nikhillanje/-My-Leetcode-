@@ -34,6 +34,7 @@ My Leetcode Jurney.
 | [1539-kth-missing-positive-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
@@ -57,6 +58,7 @@ My Leetcode Jurney.
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ My Leetcode Jurney.
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -295,6 +298,7 @@ My Leetcode Jurney.
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
@@ -304,6 +308,7 @@ My Leetcode Jurney.
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -312,6 +317,7 @@ My Leetcode Jurney.
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -319,6 +325,7 @@ My Leetcode Jurney.
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
