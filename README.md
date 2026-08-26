@@ -249,6 +249,7 @@ My Leetcode Jurney.
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
@@ -345,6 +346,7 @@ My Leetcode Jurney.
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
