@@ -161,6 +161,7 @@ My Leetcode Jurney.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
@@ -255,6 +256,7 @@ My Leetcode Jurney.
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -292,6 +294,7 @@ My Leetcode Jurney.
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -361,6 +364,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -377,4 +381,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
