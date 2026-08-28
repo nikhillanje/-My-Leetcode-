@@ -396,4 +396,8 @@ My Leetcode Jurney.
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
