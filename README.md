@@ -13,6 +13,7 @@ My Leetcode Jurney.
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -156,6 +157,7 @@ My Leetcode Jurney.
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
