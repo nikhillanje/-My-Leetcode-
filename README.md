@@ -106,6 +106,7 @@ My Leetcode Jurney.
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -257,6 +258,7 @@ My Leetcode Jurney.
 | [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -385,4 +387,5 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
