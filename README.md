@@ -8,6 +8,7 @@ My Leetcode Jurney.
 | ------- |
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -222,6 +223,7 @@ My Leetcode Jurney.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
@@ -238,6 +240,7 @@ My Leetcode Jurney.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
