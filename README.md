@@ -96,6 +96,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -104,6 +105,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
