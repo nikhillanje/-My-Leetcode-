@@ -56,6 +56,7 @@ My Leetcode Jurney.
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@ My Leetcode Jurney.
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
