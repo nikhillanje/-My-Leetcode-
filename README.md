@@ -12,6 +12,7 @@ My Leetcode Jurney.
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -142,6 +143,7 @@ My Leetcode Jurney.
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0507-perfect-number) |
@@ -285,6 +287,7 @@ My Leetcode Jurney.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -412,6 +415,7 @@ My Leetcode Jurney.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Database
@@ -428,4 +432,16 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
