@@ -11,21 +11,16 @@
 class Solution {
     public int getDecimalValue(ListNode head) {
         
-        ListNode temp = head;
+        int ans = 0;
 
-        StringBuilder sb = new StringBuilder();
+        while(head != null){
 
-        while(temp != null ){
+            ans = ans * 2 + head.val;
 
-            sb.append(temp.val);
-
-            temp = temp.next;
+            head = head.next;
         }
 
-        int dec = Integer.parseInt(sb.toString() , 2);
-
-        return dec;
-
+        return ans;
 
 
     }
