@@ -12,6 +12,7 @@ My Leetcode Jurney.
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -115,6 +116,7 @@ My Leetcode Jurney.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -143,6 +145,7 @@ My Leetcode Jurney.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
