@@ -68,6 +68,7 @@ My Leetcode Jurney.
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
@@ -282,6 +283,7 @@ My Leetcode Jurney.
 | [1021-remove-outermost-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
