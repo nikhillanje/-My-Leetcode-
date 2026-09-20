@@ -6,8 +6,9 @@ class Solution {
         int ans = 0;
 
         for(int i = 0 ; i < n ; i++){
-            int val = 26 - (s.charAt(i) - 'a');
-            ans = ans + (val * (i+1));
+
+            int rev = 26 - (s.charAt(i) - 'a');
+            ans = ans + (rev * (i+1));
         }
 
         return ans;
