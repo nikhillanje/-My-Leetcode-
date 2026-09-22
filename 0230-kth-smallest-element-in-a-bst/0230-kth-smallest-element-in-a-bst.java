@@ -35,8 +35,6 @@ class Solution {
             return root.val;
         }
 
-        
-
         return inOrder(root.right , k);
 
 
