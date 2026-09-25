@@ -8,6 +8,7 @@ My Leetcode Jurney.
 | ------- |
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
@@ -99,6 +100,7 @@ My Leetcode Jurney.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +130,7 @@ My Leetcode Jurney.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
