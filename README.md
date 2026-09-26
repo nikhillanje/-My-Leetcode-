@@ -24,6 +24,7 @@ My Leetcode Jurney.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -428,6 +429,7 @@ My Leetcode Jurney.
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
