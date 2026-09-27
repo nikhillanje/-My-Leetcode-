@@ -9,6 +9,7 @@ My Leetcode Jurney.
 | [0001-two-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
@@ -366,6 +367,7 @@ My Leetcode Jurney.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
@@ -378,6 +380,7 @@ My Leetcode Jurney.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
