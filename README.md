@@ -158,6 +158,7 @@ My Leetcode Jurney.
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 ## Recursion
@@ -325,6 +326,7 @@ My Leetcode Jurney.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -459,6 +461,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
