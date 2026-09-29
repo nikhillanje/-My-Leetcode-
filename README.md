@@ -173,6 +173,7 @@ My Leetcode Jurney.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -393,6 +394,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
@@ -536,4 +538,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
