@@ -20,6 +20,7 @@ My Leetcode Jurney.
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -248,6 +249,7 @@ My Leetcode Jurney.
 | [0101-symmetric-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -395,6 +397,7 @@ My Leetcode Jurney.
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
@@ -542,4 +545,12 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
