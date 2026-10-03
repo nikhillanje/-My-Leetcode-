@@ -25,6 +25,7 @@ My Leetcode Jurney.
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
@@ -110,6 +111,7 @@ My Leetcode Jurney.
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -146,6 +148,7 @@ My Leetcode Jurney.
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -385,6 +388,7 @@ My Leetcode Jurney.
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
@@ -555,4 +559,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
