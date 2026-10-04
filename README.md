@@ -45,6 +45,7 @@ My Leetcode Jurney.
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1539-kth-missing-positive-number) |
@@ -84,6 +85,7 @@ My Leetcode Jurney.
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1872-stone-game-viii) |
@@ -456,6 +458,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
