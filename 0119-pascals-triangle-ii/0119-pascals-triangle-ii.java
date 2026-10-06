@@ -21,7 +21,7 @@ class Solution {
             }
         }
 
-        return ans.get(rowIndex);
+        return ans.get(n);
         
     }
 }
