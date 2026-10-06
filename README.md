@@ -16,6 +16,7 @@ My Leetcode Jurney.
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0204-count-primes) |
@@ -407,6 +408,7 @@ My Leetcode Jurney.
 | [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
