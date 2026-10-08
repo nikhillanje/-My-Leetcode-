@@ -38,6 +38,7 @@ My Leetcode Jurney.
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
@@ -171,6 +172,7 @@ My Leetcode Jurney.
 | [0232-implement-queue-using-stacks](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -257,6 +259,7 @@ My Leetcode Jurney.
 | [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@ My Leetcode Jurney.
 | [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -301,6 +305,7 @@ My Leetcode Jurney.
 | [0450-delete-node-in-a-bst](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -502,6 +507,7 @@ My Leetcode Jurney.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
