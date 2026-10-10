@@ -341,6 +341,7 @@ My Leetcode Jurney.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 ## String
 |  |
 | ------- |
@@ -372,6 +373,7 @@ My Leetcode Jurney.
 | [3340-check-balanced-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
