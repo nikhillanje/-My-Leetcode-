@@ -238,6 +238,7 @@ My Leetcode Jurney.
 | [0202-happy-number](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0771-jewels-and-stones) |
@@ -356,6 +357,7 @@ My Leetcode Jurney.
 | [0125-valid-palindrome](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
@@ -506,6 +508,7 @@ My Leetcode Jurney.
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
