@@ -216,6 +216,7 @@ My Leetcode Jurney.
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2029-stone-game-ix) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2485-find-the-pivot-integer](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2485-find-the-pivot-integer) |
 | [2579-count-total-number-of-colored-cells](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2579-count-total-number-of-colored-cells) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -343,6 +344,7 @@ My Leetcode Jurney.
 | [1260-shift-2d-grid](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
