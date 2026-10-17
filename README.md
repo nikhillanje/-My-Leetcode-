@@ -32,6 +32,7 @@ My Leetcode Jurney.
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -243,6 +244,7 @@ My Leetcode Jurney.
 | [0383-ransom-note](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0697-degree-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1386-cinema-seat-allocation) |
