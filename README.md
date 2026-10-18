@@ -242,6 +242,7 @@ My Leetcode Jurney.
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0697-degree-of-an-array) |
@@ -366,6 +367,7 @@ My Leetcode Jurney.
 | [0402-remove-k-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
@@ -499,6 +501,7 @@ My Leetcode Jurney.
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
