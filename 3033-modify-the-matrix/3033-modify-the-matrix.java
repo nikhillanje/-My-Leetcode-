@@ -47,8 +47,6 @@ class Solution {
 
                         max = Math.max(max,ele);
                     }
-
-
                     matrix[i][j] = max;
                 }
 
