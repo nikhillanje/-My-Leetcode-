@@ -579,6 +579,7 @@ My Leetcode Jurney.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1873-calculate-special-bonus) |
 ## Union-Find
 |  |
 | ------- |
