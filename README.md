@@ -33,6 +33,7 @@ My Leetcode Jurney.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0697-degree-of-an-array) |
@@ -251,6 +252,7 @@ My Leetcode Jurney.
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -375,6 +377,7 @@ My Leetcode Jurney.
 | [0434-number-of-segments-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0647-palindromic-substrings) |
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0771-jewels-and-stones) |
