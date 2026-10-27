@@ -577,6 +577,7 @@ My Leetcode Jurney.
 | [0595-big-countries](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1527-patients-with-a-condition) |
