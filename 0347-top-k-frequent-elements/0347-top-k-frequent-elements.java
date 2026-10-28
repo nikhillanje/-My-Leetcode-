@@ -13,7 +13,6 @@ class Solution {
             (a, b) -> map.get(b) - map.get(a)
         );
 
-
         for (int num : map.keySet()) {
             pq.add(num);
         }
@@ -26,3 +25,4 @@ class Solution {
         
     }
 }
+
