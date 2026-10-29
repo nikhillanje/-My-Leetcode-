@@ -44,6 +44,7 @@ My Leetcode Jurney.
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -391,6 +392,7 @@ My Leetcode Jurney.
 | [0709-to-lower-case](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0796-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1154-day-of-the-year) |
@@ -667,4 +669,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
