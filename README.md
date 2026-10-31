@@ -33,6 +33,7 @@ My Leetcode Jurney.
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0599-minimum-index-sum-of-two-lists) |
