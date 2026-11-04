@@ -596,6 +596,7 @@ My Leetcode Jurney.
 | [0610-triangle-judgement](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1484-group-sold-products-by-the-date) |
