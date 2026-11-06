@@ -1,6 +1,10 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
 
+
+
+        // Approch 1 (Some Test Cases Failed)
+
         // int count = 0;
         // int p = 1;
 
@@ -26,22 +30,53 @@ class Solution {
 
         // return count;
 
-       int count = 0;
+
+
+
+    // Approch : 2
+
+
+    //    int count = 0;
+
+    //     for (int i = 0; i < nums.length; i++) {
+
+    //         long prod = 1;
+
+    //         for (int j = i; j < nums.length; j++) {
+
+    //             prod = prod * nums[j];
+
+    //             if (prod < k) {
+    //                 count++;
+    //             } else {
+    //                 break;
+    //             }
+    //         }
+    //     }
+
+    //     return count;
+
+
+    // Approch 3 : (Optimal Approch)
+
+    if (k <= 1) {
+            return 0;
+        }
+
+        int count = 0;
+        int product = 1;
+        int left = 0;
 
         for (int i = 0; i < nums.length; i++) {
 
-            long prod = 1;
+            product *= nums[i];
 
-            for (int j = i; j < nums.length; j++) {
-
-                prod = prod * nums[j];
-
-                if (prod < k) {
-                    count++;
-                } else {
-                    break;
-                }
+            while (product >= k) {
+                product /= nums[left];
+                left++;
             }
+
+            count += i - left + 1;
         }
 
         return count;
