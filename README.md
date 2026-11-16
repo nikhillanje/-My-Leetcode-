@@ -378,6 +378,7 @@ My Leetcode Jurney.
 | [1823-find-the-winner-of-the-circular-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
@@ -412,6 +413,7 @@ My Leetcode Jurney.
 | [1903-largest-odd-number-in-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/nikhillanje/-My-Leetcode-/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nikhillanje/-My-Leetcode-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nikhillanje/-My-Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
