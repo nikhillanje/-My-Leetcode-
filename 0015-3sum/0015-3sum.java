@@ -7,7 +7,8 @@ class Solution {
 
         Arrays.sort(nums);
 
-        Set<List <Integer> > result = new HashSet<>();
+        Set<List <Integer> > result = new HashSet<>(); 
+        // Notice that the solution set must not contain duplicate triplets.
 
         for(int i = 0 ; i < nums.length-2 ; i++){
 
@@ -23,6 +24,7 @@ class Solution {
                     result.add(Arrays.asList(nums[i] , nums[left] , nums[right]));
                     left++;
                     right--;
+
                 }
                 else if(sum < 0){
                     left ++;
@@ -35,7 +37,6 @@ class Solution {
 
             
         }
-
 
         return new ArrayList<>(result);
         
