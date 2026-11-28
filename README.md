@@ -12,6 +12,7 @@ My Leetcode Jurney.
 | [0045-jump-game-ii](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -139,6 +140,7 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +179,7 @@ My Leetcode Jurney.
 | [0015-3sum](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0189-rotate-array) |
@@ -683,6 +686,7 @@ My Leetcode Jurney.
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0455-assign-cookies) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -700,4 +704,8 @@ My Leetcode Jurney.
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0944-delete-columns-to-make-sorted) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nikhillanje/-My-Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
